@@ -1,0 +1,24 @@
+[book]
+authors = ["Aayush Chalise"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Linutil Docs"
+description = "Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks."
+
+[output.html]
+smart-punctuation = true
+mathjax-support = true
+site-url = "/rustmdbook/"
+git-repository-url = "https://github.com/harilvfs/rustmdBook/tree/main/linutil-docs/"
+edit-url-template = "https://github.com/harilvfs/rustmdBook/edit/main/linutil-docs{path}"
+
+[output.html.playground]
+editable = true
+line-numbers = true
+
+[output.html.code.hidelines]
+python = "~"
+
+[output.html.redirect]
+"/format/config.html" = "configuration/index.html"

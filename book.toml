@@ -11,7 +11,7 @@ smart-punctuation = true
 mathjax-support = true
 site-url = "/rustmdbook/"
 git-repository-url = "https://github.com/harilvfs/rustmdBook/tree/main/src/"
-edit-url-template = "https://github.com/harilvfs/rustmdBook/edit/main/src{path}"
+edit-url-template = "https://github.com/harilvfs/rustmdBook/edit/main/{path}"
 
 [output.html.playground]
 editable = true

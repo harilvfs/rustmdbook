@@ -1,6 +1,6 @@
 # FAQ
 
-<img src="/assets/faq.png" width="50">
+<img src="./assets/faq.png" width="50">
 
 
 [What is Linutil?](#what-is-linutil)

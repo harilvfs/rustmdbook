@@ -4,6 +4,7 @@
     <h1>
         <img class="logo" src="/assets/faq.png" alt="faq" width="50">
     </h1>
+</div>
 
 [What is Linutil?](#what-is-linutil)
 

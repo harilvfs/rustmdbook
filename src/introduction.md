@@ -1,7 +1,4 @@
-<div class="show-mobile">
-    <h1>
-        <img class="logo" src="/assets/cttlogo.png" alt="ctt logo">
-    </h1>
+<img src="./assets/cttlogo.png" width="50">
 
 # Chris Titus Tech's Linux Utility
 

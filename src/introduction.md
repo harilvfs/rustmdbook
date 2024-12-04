@@ -1,4 +1,11 @@
+<div class="show-mobile">
+    <h1>
+        <img class="logo" src="/assets/cttlogo.png" alt="ctt logo">
+    </h1>
+
 # Chris Titus Tech's Linux Utility
+
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/bujFYKAHSp)](https://discord.gg/bujFYKAHSp)
 
 **Linutil** is a distro-agnostic toolbox designed to simplify everyday Linux tasks. It helps users set up applications and optimize their systems for specific use cases. Developed in **Rust** 🦀, Linutil delivers exceptional performance and reliability.  
 

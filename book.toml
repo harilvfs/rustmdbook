@@ -7,6 +7,8 @@ title = "Linutil Docs"
 description = "Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks."
 
 [output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
 smart-punctuation = true
 mathjax-support = true
 site-url = "/rustmdbook/"

@@ -1,9 +1,6 @@
 # Installation
 
-<div class="show-mobile">
-    <h1>
-        <img class="logo" src="/assets/installation.png" alt="Installation" width="50">
-    </h1>
+<img src="./assets/installation.png" width="50">
 
 **Note**: Linutil can be run directly from the command line using the `CLI` installation. It is also available in different packages and can be installed via `Cargo`.
 

@@ -1,9 +1,6 @@
 # CLI Arguments
 
-<div class="show-mobile">
-    <h1>
-        <img class="logo" src="/assets/script.png" alt="cli" width="50">
-    </h1>
+<img src="./assets/script.png" width="50">
 
 *Linutil supports various command-line arguments to customize its behavior. Here are some common arguments you can use:*
 

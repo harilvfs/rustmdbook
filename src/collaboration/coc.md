@@ -1,9 +1,6 @@
 # Code of Conduct
 
-<div class="show-mobile">
-    <h1>
-        <img class="logo" src="/assets/code-of-conduct.png" alt="coc" width="50">
-    </h1>
+<img src="./assets/.code-of-conduct.png" width="50">
 
 # Contributor Covenant Code of Conduct
 

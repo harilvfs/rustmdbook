@@ -1,9 +1,6 @@
 # Linutil comes with various application setups, including gaming utilities and system configuration tools.
 
-<div class="show-mobile">
-    <h1>
-        <img class="logo" src="/assets/guide.png" alt="guide" width="50">
-    </h1>
+<img src="./assets/guide.png" width="50">
 
 - [Application Setup](#application-setup)
   - [Communication Apps](#communication-apps)

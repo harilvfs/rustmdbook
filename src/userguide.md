@@ -1,4 +1,30 @@
-# Application Setup
+# Linutil comes with various application setups, including gaming utilities and system configuration tools.
+
+<div class="show-mobile">
+    <h1>
+        <img class="logo" src="/assets/guide.png" alt="guide" width="50">
+    </h1>
+
+- [Application Setup](#application-setup)
+  - [Communication Apps](#communication-apps)
+  - [Developer Tools](#developer-tools)
+  - [Web Browsers](#web-browsers)
+
+- [Gaming](#gaming)
+  - [Diablo II Resurrected](#diablo-ii-resurrected)
+
+- [Security](#security)
+
+- [System Setup](#system-setup)
+  - [Arch Linux](#arch-linux)
+  - [Fedora](#fedora)
+
+- [Utilities](#utilities)
+    - [Monitor Control](#monitor-control)
+    - [Printers](#printers)
+  - [User Account Manager](#user-account-manager)
+
+## Application Setup
 
 ### Communication Apps
 
@@ -58,3 +84,71 @@ https://github.com/ChrisTitusTech/dwm-titus
 - **Rofi**: Rofi is a window switcher, run dialog, ssh-launcher and dmenu replacement that started as a clone of simpleswitcher, written by Sean Pringle and later expanded by Dave Davenport. This command installs and configures rofi with configuration from CTT's DWM repo. https://github.com/ChrisTitusTech/dwm-titus
 - **Waydroid**: Waydroid is an emulator that allows you to run Android apps and games on Linux.
 - **ZSH Prompt**: The Z shell is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh. This command installs ZSH prompt and provides basic configuration.
+
+## Gaming
+
+### Diablo II Resurrected
+
+- **Loot Filter**: This is a loot filter for Diablo II Resurrected. It's designed to be a simple, clean, and easy to read loot filter that highlights the most important items. Works on battle.net and single player. No frills, no config, just highlights high runes and other valuable items. For more information visit: [dr2-loot-filter](https://github.com/ChrisTitusTech/d2r-loot-filter)
+
+## Security
+
+- **Firewall Baselines (CTT)**: Developed to ease iptables firewall configuration, UFW provides a user friendly way to create an IPv4 or IPv6 host-based firewall. This command installs UFW and configures UFW based on CTT's recommended rules. For more information visit: https://christitus.com/linux-security-mistakes
+
+## System Setup  
+
+*Linutil provides streamlined system setup options for **Arch Linux** and **Fedora**. Below are the features and tools available:*
+
+### Arch Linux  
+- **Arch Server Setup:** Installs a minimal Arch server setup in under 5 minutes.  
+- **Paru AUR Helper:** A feature-rich and minimal-interaction AUR helper wrapping pacman.  
+  - Learn more: [Arch Wiki - AUR Helpers](https://wiki.archlinux.org/title/AUR_helpers)  
+- **Yay AUR Helper:** Yet Another Yogurt - an AUR helper written in Go.  
+  - Learn more: [Arch Wiki - AUR Helpers](https://wiki.archlinux.org/title/AUR_helpers)  
+
+### Fedora  
+- **Configure DNF:** Optimizes DNF for parallel downloads.  
+- **Multimedia Codecs:** Installs multimedia codecs and configures RPM Fusion repositories.  
+- **NVIDIA Proprietary Drivers:** Installs proprietary NVIDIA drivers for Fedora.  
+- **RPM Fusion:** Provides access to additional software not shipped by Fedora or Red Hat.  
+  - Learn more: [RPM Fusion](https://rpmfusion.org/)  
+- **Virtualization:** Enables virtualization through DNF.  
+- **Build Prerequisites:** Installs software dependencies required for development.  
+- **Full System Cleanup:** Removes unnecessary packages, old cache files, temporary files, and empties the trash.  
+- **Full System Update:** Updates the system to the latest available packages.  
+- **Gaming Dependencies:** Installs dependencies required for gaming.  
+- **Global Theme:** Configures and installs global theming for a customized desktop experience.  
+- **Remove Snaps:** Removes Snap packages from the system.  
+- **TTY Fonts:** Sets the default TTY font to Terminus (size 32, bold).  
+
+## Utilities
+
+### Monitor Control
+
+- **Auto Detect Displays**: This script is designed to detect and apply recommended configuration for monitors connected with your system
+- **Change Orientation**: This script is designed to change the orientation of monitors in your system
+- **Disable Monitor**: This script is designed to disable a monitor in your system
+- **Duplicate Displays**: This script is designed to duplicate display among multi-monitor setup in your system
+- **Enable Monitor**: This script is designed to enable a monitor in your system
+- **Extend Displays**: This script is designed to extend display among multi-monitor setup in your system
+- **Manage Arrangement**: This script is designed to arrange monitors in multi-monitor setup in your system
+- **Reset Scaling**: This script is designed to reset scaling of a monitor in your system
+- **Scale Monitors**: This script is designed to change the scaling of monitors in your system
+- **Set Brightness**: This script is designed to change the Brightness of monitors connected to your system
+- **Set Primary Monitor**: This script is designed to set a Primary monitor in your system
+- **Set Resolution**: This script is designed to change the resolution of monitors connected to your system
+
+### Printers
+
+- **CUPS**: This script will install the CUPS system, required for most printer drivers on Linux.
+- **Epson printer drivers**: This script will install the Epson printer drivers.
+
+### User Account Manager
+
+- **Auto Mount Drive**: This utility is designed to help with automating the process of mounting a drive on to your system.
+- **Bluetooth Manager**: This utility is designed to manage bluetooth in your system
+- **Numlock on Startup**: This utility is designed to enable Num Lock at boot, rather than within desktop environments like KDE or GNOME
+- **Ollama**: This utility is designed to manage ollama in your system
+- **Service Manager**: This utility is designed to manage services in your system
+- **WiFi Manager**: This utility is designed to manage wifi in your system
+

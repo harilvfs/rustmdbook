@@ -1,4 +1,9 @@
-## 🏅 Thanks to All Contributors
+<div class="show-mobile">
+    <h1>
+        <img class="logo" src="/assets/contributors.png" alt="contributors" width="50">
+    </h1>
+
+# 🏅 Thanks to All Contributors
 
 Thank you to everyone who has contributed to the development of Linutil. Your efforts are greatly appreciated, and you’re helping make this tool better for everyone!
 

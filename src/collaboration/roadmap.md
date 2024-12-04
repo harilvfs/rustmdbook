@@ -1,5 +1,10 @@
 # RoadMap
 
+<div class="show-mobile">
+    <h1>
+        <img class="logo" src="/assets/roadmap.png" alt="roadmap" width="50">
+    </h1>
+
 ## Vision
 - To simplify linux tasks for all users for all distributions; Easily, efficiently, and effortlessly.
 

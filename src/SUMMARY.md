@@ -1,46 +1,23 @@
 # Summary
 
 [Introduction](./introduction.md)
+[Preview](./preview.md)
 
-# Installation
+______________________________________________________________________
 
-- [Command Line](./installation/cli.md)
+[Installation](installation.md)
 
-- [Arch Linux](./installation/arch.md)
+[Command Line Tool](command.md)
 
-- [OpenSuse](./installation/opensuse.md)
+[User Guide](userguide.md)
 
-- [Cargo](./installation/cargo.md)
+[Contributing](./collaboration/contribute.md)
 
-# Reference Guide
+[RoadMap](./collaboration/roadmap.md)
 
-- [Command Line Tool](./command.md)
+[Code of Conduct](./collaboration/coc.md)
 
-# User Guide
-
-- [Walkthrough](./userguide/walkth.md)
-
-    - [Application Setup](./userguide/application.md)
-
-    - [Gaming](./userguide/gaming.md)
-
-    - [Security](./userguide/security.md)
-
-    - [System Setup](./userguide/sys.md)
-
-    - [Utilities](./userguide/utilities.md)
-
-# Collaboration
-
-- [Contributing](./collaboration/contribute.md)
-
-- [RoadMap](./collaboration/roadmap.md)
-
-- [Code of Conduct](./collaboration/coc.md)
-
-# Linutil FAQ
-
-- [FAQ](./faq.md)
+[FAQ](./faq.md)
 
 -----------
 

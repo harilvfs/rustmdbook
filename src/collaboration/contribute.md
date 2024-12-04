@@ -1,6 +1,6 @@
 # Contributing Guidelines for Linutil
 
-<img src="./assets/contribute.png" width="50">
+<img src="../assets/contribute.png" width="50">
 
 Thank you for considering contributing to Linutil! We appreciate your effort in helping improve this project. To ensure that your contributions align with the goals and quality standards of Linutil, please follow these guidelines:
 

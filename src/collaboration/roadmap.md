@@ -1,6 +1,6 @@
 # RoadMap
 
-<img src="./assets/roadmap.png" width="50">
+<img src="../assets/roadmap.png" width="50">
 
 ## Vision
 - To simplify linux tasks for all users for all distributions; Easily, efficiently, and effortlessly.

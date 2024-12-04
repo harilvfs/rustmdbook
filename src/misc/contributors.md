@@ -1,4 +1,5 @@
-<img src="./assets/contributors.png" width="50">
+<br>
+<img src="../assets/contributors.png" width="50">
 
 # 🏅 Thanks to All Contributors
 

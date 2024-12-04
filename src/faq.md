@@ -1,10 +1,7 @@
 # FAQ
 
-<div class="show-mobile">
-    <h1>
-        <img class="logo" src="/assets/faq.png" alt="faq" width="50">
-    </h1>
-</div>
+<img src='https://github.com/harilvfs/rustmdbook/blob/main/src/assets/faq.png' width="50">
+
 
 [What is Linutil?](#what-is-linutil)
 

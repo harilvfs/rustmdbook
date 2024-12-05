@@ -48,4 +48,4 @@ However, it’s important to understand what each option does before selecting i
  `sudo zypper remove linutil`
 
 - Cargo
-  `cargo unistall linutil_tui`
+  `cargo uninstall linutil_tui`

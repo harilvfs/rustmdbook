@@ -43,3 +43,9 @@ However, it’s important to understand what each option does before selecting i
     `paru -R linutil<git/bin>`
   - For **yay**:  
     `yay -R linutil<git/bin>`
+
+- OpenSUSE
+ `sudo zypper remove linutil`
+
+- Cargo
+  `cargo unistall linutil_tui`

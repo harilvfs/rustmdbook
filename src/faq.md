@@ -8,7 +8,7 @@
 
 [Can Using Linutil Break My System?](#can-using-linutil-break-my-system)
 
-[How do i unistall Linutil?](#how-do-i-uninstall-linutil)
+[How do i uninstall Linutil?](#how-do-i-uninstall-linutil)
 
 ## What is Linutil?
 
@@ -33,8 +33,6 @@ In general, using Linutil will not break your system. There are no scripts in Li
 However, it’s important to understand what each option does before selecting it. If you choose an option without knowing its function, it could potentially lead to issues on your system. Ultimately, using Linutil is safe as long as you're aware of what you're doing.
 
 ## How do I uninstall LinUtil?
-
-### How do I uninstall LinUtil?
 
 - **If you are running Linutil directly from GitHub using the CLI command**, it will run in the `/tmp` directory, and Linutil will be removed automatically as soon as you exit the program.
 
